@@ -1,4 +1,4 @@
-#[我的笔记]vscode插件
+# [我的笔记]vscode插件
 ***
 
 ```
@@ -23,9 +23,16 @@ ps:因为是自用笔记,所以难免有时候
 ## 4.Markdown Preview Enhanced
 >markdown右侧实时预览(ctrl+k v)
 >不过我貌似快捷键不能用,所以我一般直接在markdown文件右键选择
+>当然直接点击右上角"打开侧边预览"也可以
 ![image](/images/Markdown_Preview_Enhanced.gif)
 
+## 5.Image Preview
+>鼠标悬停图片路径上查看图片缩略图
+![image](/images/Image_Preview.gif)
 
+## 6. Bracket Pair Colorizer
+>允许使用颜色标识匹配的括号(再也不用为那么多括号哪个和哪个对应担心)
+![image](/images/Bracket_Pair_Colorizer.gif)
 
 
 
