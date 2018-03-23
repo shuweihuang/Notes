@@ -23,7 +23,7 @@ ps:因为是自用笔记,所以难免有时候寒暄几句哈
 ## 4.Markdown Preview Enhanced
 >markdown右侧实时预览(ctrl+k v)
 >不过我貌似快捷键不能用,所以我一般直接在markdown文件右键选择
->当然直接点击右上角"打开侧边预览"也可以
+>当然直接点击右上角"打开侧边预览"也可以,但是实际是用的时候发现自带的有些地方支持不是很好
 ![image](/images/Markdown_Preview_Enhanced.gif)
 
 ## 5.Image Preview
