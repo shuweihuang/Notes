@@ -11,7 +11,7 @@ ps:因为是自用笔记,所以难免有时候
 
 ##View in Browser
 >从dw到sublime一路走来,一直把dw中的F12作为直接在浏览器中预览HTML的快捷键,但是vscode 中是没有的(或者我没找到),所以就安装了这个插件,但是这个插件的快捷键模式是ctrl+F1,后面试了下,觉得也挺顺手:)
-![image](./images/View in Browser.gif)
+![image](/images/View_in_Browser.gif)
 
 
 
